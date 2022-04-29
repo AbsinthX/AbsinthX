@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP, Laravel, SQL, JS, HTML, CSS**
 
-- 👨‍💻 My project is available at [http://konradptak.pl/](www.konradptak.pl)
+- 👨‍💻 My project is available at [http://konradptak.pl/](http://konradptak.pl/)
 
 - 📫 How to reach me **xptak.konrad@gmail.com**
 
