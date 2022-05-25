@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Konrad</h1>
+<h1 align="center">Hi, I'm Konrad</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
 - 🔭 I’m currently working on [SunB2B](https://github.com/AbsinthX/sunB2B-app)
 
 - 🌱 I’m currently learning **PHP, Laravel, SQL, JS, HTML, CSS**
 
-- 👨‍💻 My project is available at [http://konradptak.pl/](http://konradptak.pl/)
+- 👨‍💻 My project is available at [http://konradptak.pl/](http://konradptak.pl/) (check repository for access)
 
 - 📫 How to reach me **xptak.konrad@gmail.com**
 
