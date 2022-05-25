@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP, Laravel, SQL, JS, HTML, CSS**
 
-- 👨‍💻 My project is available at [http://konradptak.pl/](http://konradptak.pl/) (check repository for access)
+- 👨‍💻 My project is available at [http://konradptak.pl/](http://konradptak.pl/) (check [SunB2B](https://github.com/AbsinthX/sunB2B-app) repository for access)
 
 - 📫 How to reach me **xptak.konrad@gmail.com**
 
