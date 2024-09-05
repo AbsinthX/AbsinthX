@@ -7,7 +7,7 @@
 
 - 👨‍💻 My project is available at [http://konradptak.pl/](http://konradptak.pl/) (check [SunB2B](https://github.com/AbsinthX/sunB2B-app) repository for access)
 
-- 📫 How to reach me **xptak.konrad@gmail.com**
+- 📫 How to reach me **konrad_ptak@wp.pl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
