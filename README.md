@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Konrad</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [SunB2B](https://github.com/AbsinthX/sunB2B-app)
+- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **PHP, Laravel, SQL, JS, HTML, CSS**
-
-- 👨‍💻 My project is available at [http://konradptak.pl/](http://konradptak.pl/) (check [SunB2B](https://github.com/AbsinthX/sunB2B-app) repository for access)
+- 🌱 I’m currently learning **PHP, Symfony, SQL, JS, HTML, CSS**
 
 - 📫 How to reach me **konrad_ptak@wp.pl**
 
